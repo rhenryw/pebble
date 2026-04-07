@@ -70,3 +70,13 @@ You have to do `div` and `iframe`
 
 Why `eg`?
  > Because it's inconspicuous and probably nothing else has taken it
+
+
+TODO
+---
+
+- [x] Basic implementation
+
+- [ ] Custom logic (non-sandstone)
+
+- [ ] World domination
