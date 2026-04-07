@@ -69,7 +69,7 @@ You have to do `div` and `iframe`
 
 
 Why `eg`?
- > Because it's inconspicuous and probably nothing else has taken it
+ > Because it's inconspicuous and probably nothing else has taken it. Also it was called EasyGame before (it used to only load gamedistro games)
 
 
 TODO
