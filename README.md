@@ -1,5 +1,5 @@
 # pebble
-A web proxy that can be run anywhere
+A web proxy that can be run anywhere (local, `data:` link, html file)
 
 Based off of [ading2210/sandstone](https://github.com/ading2210/sandstone/)
 
